@@ -13,9 +13,7 @@
 -- ORDER BY ____ (DESC) 
 -- LIMIT ____;
 
-SELECT listing_id
+SELECT COUNT(*)
 FROM reviews
-ORDER BY listing_id DESC
-LIMIT 1
 ;
 
