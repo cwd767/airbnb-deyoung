@@ -23,5 +23,5 @@
 SELECT url, accommodates
 FROM listings
 WHERE accommodates = 16
-LIMIT 17
+-- LIMIT 17
 ;
